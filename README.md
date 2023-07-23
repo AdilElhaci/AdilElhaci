@@ -1,5 +1,8 @@
 ### Adil Elhaci
 
+
+Mobile developer with 3 years of Flutter expertise, skilled in crafting cross-platform apps. Exploring the world of Swift UI to extend capabilities in native iOS development. Passionate about blending Flutter and Swift UI to deliver exceptional mobile experiences.
+
 <!--
 **AdilElhaci/AdilElhaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
