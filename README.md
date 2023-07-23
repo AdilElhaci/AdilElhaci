@@ -1,4 +1,5 @@
-### Adil Elhaci
+<h1 align="center">Hi 👋, I'm Adil Elhaci</h1>
+<h3 align="center">Mobile Technical Leader | Flutter 💙 & iOS Developer</h3>
 
 
 Mobile developer with 3 years of Flutter expertise, skilled in crafting cross-platform apps. Exploring the world of Swift UI to extend capabilities in native iOS development. Passionate about blending Flutter and Swift UI to deliver exceptional mobile experiences.
