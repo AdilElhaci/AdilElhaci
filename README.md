@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adil Elhaci</h1>
-<h3 align="center">Mobile Technical Leader | Flutter 💙 & iOS Developer</h3>
+<h1>Hi 👋, I'm Adil Elhaci</h1>
+<h3>Mobile Technical Leader | Flutter 💙 & iOS Developer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
